@@ -1,0 +1,34 @@
+output for min support=3
+
+
+Enter number of items and no of transactions
+5
+5
+Enter transaction id
+1
+Enter transaction,separate by commas
+a,b,c,d,e
+Enter transaction id
+2
+Enter transaction,separate by commas
+a,b,c,d
+Enter transaction id
+3
+Enter transaction,separate by commas
+a,b,c
+Enter transaction id
+4
+Enter transaction,separate by commas
+a,b
+Enter transaction id
+5
+Enter transaction,separate by commas
+a
+------------frequent itemsets-----------
+a
+b
+b,a
+c
+c,a
+c,b
+c,b,a

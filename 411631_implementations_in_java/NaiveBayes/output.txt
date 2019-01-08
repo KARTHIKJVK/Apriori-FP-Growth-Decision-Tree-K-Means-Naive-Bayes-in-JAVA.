@@ -1,0 +1,12 @@
+enter total no of attributes
+5
+enter class label attribute number
+5
+enter a sample to predict class
+-----new sample---------
+middle
+high
+yes
+excellent
+-------predicted value-------
+yes
